@@ -1,4 +1,7 @@
 {
   "name": "03_project-setup-yarn",
-  "packageManager": "yarn@3.6.0"
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
