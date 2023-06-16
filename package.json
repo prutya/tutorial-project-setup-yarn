@@ -1,0 +1,4 @@
+{
+  "name": "03_project-setup-yarn",
+  "packageManager": "yarn@3.6.0"
+}
